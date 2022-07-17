@@ -1,4 +1,5 @@
 package com.dsa;
+import java.util.*;
 public class FindLastPersonOfAgeK {
   public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
